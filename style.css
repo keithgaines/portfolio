@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+.headertext {
+    width: 100%;
+}
+
+.projectscontainer h1 {
+    text-align: center;
+}
+
+.links {
+    padding: 5%;
+}
+
+.links a {
+    margin-right: 40px;
+}
+
+.project img {
+    width: 100%;
+}
+
+/* 
+.headertext {
+    float: left;
+    width: 70%;
+    position: absolute;
+    color: white;
+    padding: 8%;
+}
+
+.headerimage {
+    float: right;
+    width: 50%;
+} */

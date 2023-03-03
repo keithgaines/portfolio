@@ -24,6 +24,10 @@ body {
     width: 100%;
 }
 
+.linkedinbutton a {
+    color: white;
+}
+
 /* 
 .headertext {
     float: left;

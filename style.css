@@ -88,11 +88,21 @@ button {
     .headertext {
         float: left;
         width: 50%;
+        padding-left: 10%;
+        padding-top: 15%;
+    }
+
+    .headerimage {
+        padding: 8%;
     }
 
     .headerimage img {
         float: right;
-        width: 50%;
+        height: 30%;
+    }
+
+    .projectstitle {
+        margin-top: 25%;
     }
 
     .projectscontainer {
